@@ -1,0 +1,5 @@
+.bar {
+  fill: steelblue; /* Couleur de remplissage des barres */
+  stroke: black;   /* Bordure noire autour des barres */
+  stroke-width: 1;  /* Largeur de la bordure */
+}
